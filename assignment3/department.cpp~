@@ -1,0 +1,47 @@
+ #include "department.h"
+#include <iostream>
+#include <iomanip>
+#ifndef DEPARTMENT_CPP
+#define DEPARTMENT_CPP
+using namespace std;
+
+long Department::nextDepartId = 100;
+
+Department::Department()
+{
+  id = chairId = 0;
+  name = location = "unknown";
+}
+
+Department::Department(string n, string l, long c)
+{
+  id = nextDepartId;
+  name = n;
+  location = l;
+  chairId = c;
+  nextDepartId++;
+}
+
+void Department::printDepartment()
+{
+  cout << setw(10) << id;
+  cout << setw(10) << name;
+  cout << setw(10) << location;
+  cout << setw(10) << chairId;
+  cout << endl;
+}
+
+void Department::assignChair(long facultyId)
+{ chairId = facultyId;}
+
+string Department::getname()
+{
+  return name;
+}
+
+long Department::getid()
+{
+  return id;
+}
+
+#endif

@@ -1,0 +1,165 @@
+=========================================
+
+A.txt
+
+approaches atomicity attempts a application 
+approach an able analysis architectural
+are aspects addressed as and acid
+algorithm
+
+=========================================
+
+B.txt
+
+been but being be by build
+
+=========================================
+
+C.txt
+
+cs211 current concurrency changes 
+consistency computationally context
+correctness criterion conflict
+control
+
+=========================================
+
+D.txt
+
+database developing demand designer
+determine different describes
+designed described developed
+
+=========================================
+
+E.txt
+
+enhancing either exploits expected 
+explicitly enhance environment emits
+exploit
+
+=========================================
+
+F.txt
+
+focused from facilitate follows first
+framework for further
+
+=========================================
+
+G.txt
+
+generate
+
+=========================================
+
+H.txt
+
+have has how histories hello
+
+=========================================
+
+I.txt
+
+in isolation indeed infeasible interface
+is intimate introduced implementation
+issues important
+
+=========================================
+
+J.txt
+
+=========================================
+
+K.txt
+
+knowledgeable knowledge key
+
+=========================================
+
+L.txt
+
+load
+
+=========================================
+
+M.txt
+
+models much most must model maintain
+multiversion managed more
+multiversioning
+
+=========================================
+
+N.txt
+
+new not
+
+=========================================
+
+O.txt
+
+on or of our object-oriented others 
+overall objects optimistic
+
+=========================================
+
+P.txt
+
+properties priori placed paper provides
+procedures providing
+
+=========================================
+
+Q.txt
+
+=========================================
+
+R.txt
+
+requiring related required reconciliation
+role reliable
+
+=========================================
+
+S.txt 
+
+systems successful suffer sufficiently
+semantics system static show second
+serializability support
+
+=========================================
+
+T.txt
+
+teacher to transaction that typically
+the transactions themselves this these
+than tractable third they
+
+=========================================
+
+U.txt
+
+=========================================
+
+V.txt
+
+=========================================
+
+W.txt
+
+work with world which within well-known
+
+=========================================
+
+X.txt
+
+=========================================
+
+Y.txt
+
+=========================================
+
+Z.txt
+
+=========================================

@@ -1,0 +1,15 @@
+AddW		student
+AddW		teacher
+AddW		cs211 
+InsertF		data.txt
+PrintF		T.txt 
+DeleteW		student
+AddW		hello 
+SpellCheck	myEssay.txt
+DeleteW		play
+SearchW 	medical
+SearchW		cs211
+PrintF		C.txt
+PrintF		H.txt
+PrintF 	 	S.txt
+

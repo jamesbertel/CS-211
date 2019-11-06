@@ -1,0 +1,7 @@
+AddW		student
+AddW		teacher
+AddW		cs211 
+InsertF		data.txt
+
+PrintF 	 	T.txt
+

@@ -1,0 +1,12 @@
+Add Student 0 
+Add Kid	    0 
+Add Final   1 
+Add Grow    1 
+Add Note    2 
+Print
+Add Rich    5 
+Remove	   1 
+Remove	   7  
+Add Mind    2 
+Remove      3 
+Print
